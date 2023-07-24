@@ -132,7 +132,25 @@ app.get('/profile/:email', async(req, res)=>{
 	const result = await candidateCollection.findOne(query);
 	res.send(result);
 })
-		
+// edit profile
+app.put('/updateProfile/:id', async (req, res) => {
+	const id = req.params.id;
+	console.log(id);
+	const body = req.body;
+	console.log(body);
+	const filter = { _id: new ObjectId(id) };
+	// const filter = { email: email };
+	const updateData = {
+		$set: {
+			name: body.name,
+			college_name: body.college_name,
+			address: body.address,
+			email: body.email,
+		},
+	};
+	const result = await candidateCollection.updateOne(filter, updateData);
+	res.send(result);
+});		
 
 		// Connect the client to the server	(optional starting in v4.7)
 		await client.connect();
