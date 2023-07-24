@@ -1,0 +1,43 @@
+[
+	{
+		"researchTopic": "Exploring the Integration of Artificial Intelligence in Modern Healthcare Systems to Enhance Patient Diagnosis and Treatment Efficiency.",
+		"researcher": "John Smith",
+		"publishDate": "2022-01-15"
+	},
+	{
+		"researchTopic": "Analyzing Effective Climate Change Mitigation Strategies Adopted Globally to Combat Environmental Challenges and Preserve Natural Resources.",
+		"researcher": "Jane Doe",
+		"publishDate": "2021-11-30"
+	},
+	{
+		"researchTopic": "Investigating the Multifaceted Impact of Social Media on Mental Health and Psychological Well-being in Diverse Population Groups.",
+		"researcher": "David Johnson",
+		"publishDate": "2022-03-08"
+	},
+	{
+		"researchTopic": "Comprehensively Evaluating the Advantages and Limitations of Renewable Energy Sources in Sustaining Green Energy Practices and Reducing Fossil Fuel Dependency.",
+		"researcher": "Emily Williams",
+		"publishDate": "2021-09-22"
+	},
+
+	{
+		"researchTopic": "The Role of Artificial Intelligence in Autonomous Vehicles for Safer and Smarter Transportation Solutions.",
+		"researcher": "Michael Brown",
+		"publishDate": "2022-05-20"
+	},
+	{
+		"researchTopic": "Exploring the Potential Applications of Blockchain Technology in Supply Chain Management and Fraud Prevention.",
+		"researcher": "Sophia Lee",
+		"publishDate": "2022-02-10"
+	},
+	{
+		"researchTopic": "Analyzing the Impact of Virtual Reality in Education for Enhanced Learning Experiences and Skill Development.",
+		"researcher": "William Johnson",
+		"publishDate": "2021-12-18"
+	},
+	{
+		"researchTopic": "Investigating the Effectiveness of Remote Work and Its Implications on Work-Life Balance and Employee Productivity.",
+		"researcher": "Olivia Miller",
+		"publishDate": "2022-04-05"
+	}
+]
